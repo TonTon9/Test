@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class ForTest : MonoBehaviour
 {
-    // huy
+    //ЕГОР НЕ *****
     void Start()
     {
         
