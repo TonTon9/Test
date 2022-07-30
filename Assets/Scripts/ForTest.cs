@@ -4,13 +4,13 @@ using UnityEngine;
 
 public class ForTest : MonoBehaviour
 {
-    // Start is called before the first frame update
+    // huy
     void Start()
     {
         
     }
 
-    // Update is called once per frame
+    // EGOR *****
     void Update()
     {
         
