@@ -10,7 +10,7 @@ public class ForTest : MonoBehaviour
         
     }
 
-    // ДАНИЛ *******
+    // EGOR *****
     void Update()
     {
         
