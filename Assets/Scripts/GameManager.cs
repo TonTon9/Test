@@ -2,15 +2,15 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class ForTest : MonoBehaviour
+public class GameManager : MonoBehaviour
 {
-    //ЕГОР НЕ *****
+    // Start is called before the first frame update
     void Start()
     {
         
     }
 
-    // EGOR *****
+    // Update is called once per frame
     void Update()
     {
         
